@@ -5,6 +5,7 @@
 
 Unlike traditional dashboards that overload you with metrics, Code2Report provides *qualitative insights* — helping tech leads and managers understand what’s happening in their codebase, without digging through commits or holding endless status meetings.
 
+![Demo](assets/demo.gif)
 ---
 
 ## 👨‍💻 MVP Features
@@ -66,7 +67,7 @@ Here are some reports we've generated for real open source projects:
 
 Want to try Code2Report or request a report for your own repository?
 
-* 💻 **Beta Access**: [https://buymeacoffee.com/code2report/extras](http://coff.ee/code2report)
+* 💻 **Beta Access**: [coff.ee/code2report](https://buymeacoffee.com/code2report/extras)
 * 💼 **LinkedIn**: [linkedin.com/company/code2report](https://linkedin.com/company/code2report)
 
 ---
