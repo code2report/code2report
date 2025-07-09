@@ -55,11 +55,7 @@ Code2Report is evolving into a **cross-platform developer intelligence system**.
 
 Here are some reports we've generated for real open source projects:
 
-* 🔗 [Read more about the project architecture](reports/test.md)
-* 🔗 [Weekly Progress: Supabase](https://example.com/report/supabase-weekly)
-* 🔗 [Top Contributors: Astro](https://example.com/report/astro-contributors)
-* 🔗 [Refactoring Activity: Deno](https://example.com/report/deno-refactor)
-  *(Note: links are placeholders — replace with actual reports)*
+* 🔗 [Codecov Extension](reports/codecov_extension.md)
 
 ---
 
