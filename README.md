@@ -56,6 +56,9 @@ Code2Report is evolving into a **cross-platform developer intelligence system**.
 Here are some reports we've generated for real open source projects:
 
 * 🔗 [Codecov Extension](reports/codecov_extension.md)
+* 🔗 [Recally](reports/recally.md)
+* 🔗 [UserTour](reports/usertour.md)
+* 🔗 [AliasVault](reports/aliasvault.md)
 
 ---
 

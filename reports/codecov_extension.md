@@ -2,7 +2,7 @@
 
 **🗓 Period:** 2025-07-01 to 2025-07-09  
 **👥 Audience:** All contributors  
-**📁 Repository:** Codecov Extension
+**📁 Repository:** [Codecov Extension] (https://github.com/codecov/codecov-browser-extension)
 
 ---
 
