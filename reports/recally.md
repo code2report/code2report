@@ -1,7 +1,7 @@
 # 📊 GitHub Activity Summary Report
 
 **🗓 Period:** 2025-06-01 to 2025-07-09  
-**👥 Audience:** All contributors 
+**👥 Audience:** All contributors  
 **📁 Repository:** [Recally](https://github.com/recally-io/recally)
 
 ---
