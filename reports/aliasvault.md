@@ -2,7 +2,7 @@
 
 **🗓 Period:** 2025-07-01 to 2025-07-09  
 **👥 Audience:** All contributors  
-**📁 Repository:** [AliasVault] (https://github.com/lanedirt/AliasVault)
+**📁 Repository:** [AliasVault](https://github.com/lanedirt/AliasVault)
 
 ---
 

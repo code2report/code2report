@@ -2,7 +2,7 @@
 
 **🗓 Period:** 2025-07-01 to 2025-07-09  
 **👥 Audience:** All contributors  
-**📁 Repository:** [UserTour] (https://github.com/usertour/usertour)
+**📁 Repository:** [UserTour](https://github.com/usertour/usertour)
 
 ---
 
