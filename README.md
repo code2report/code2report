@@ -67,8 +67,9 @@ Here are some reports we've generated for real open source projects:
 
 Want to try Code2Report or request a report for your own repository?
 
-* 💻 **Beta Access**: [coff.ee/code2report](https://buymeacoffee.com/code2report/extras)
+* 💻 **Beta Access**: [code2report](https://zkrov-code2report-28ee.twc1.net)
 * 💼 **LinkedIn**: [linkedin.com/company/code2report](https://linkedin.com/company/code2report)
+* 💻 **By me a coffee**: [coff.ee/code2report](https://buymeacoffee.com/code2report/extras)
 
 ---
 
