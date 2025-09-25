@@ -13,7 +13,7 @@ Unlike traditional dashboards that overload you with metrics, Code2Report provid
 We’ve launched our **MVP** with GitHub commit analysis and three ready-to-use report types:
 
 * 📅 **Daily Summary** — perfect for stand-ups
-* 📊 **Custom Period Reports** — for sprints or deep reviews
+* 📊 **Custom Period Reports** —  for sprints or deep reviews
 * 📄 **Manager-Friendly Reports** — written in plain English, AI-generated
 
 ---
